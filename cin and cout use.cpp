@@ -1,3 +1,4 @@
+//Code to Understand Basic Use of cin function to take input and cout function to display output.
 #include<iostream>
 using namespace std;
 int main()
