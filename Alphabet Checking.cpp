@@ -1,3 +1,4 @@
+//To Check Whether the Alphabet entered by user is a Vowel or a Consonant 
 #include<iostream>
 #include<string>
 using namespace std;
