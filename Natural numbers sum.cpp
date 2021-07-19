@@ -1,3 +1,4 @@
+//Program to find sum of natural numbers till n 
 #include<iostream>
 using namespace std;
 //Natural no. are 1,2,3,4,5,6...............
